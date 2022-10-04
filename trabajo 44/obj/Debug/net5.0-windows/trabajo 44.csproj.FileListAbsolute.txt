@@ -1,0 +1,76 @@
+E:\C sharp\Trabajo c#\trabajo 44\trabajo 44\bin\Debug\net5.0-windows\trabajo 44.exe
+E:\C sharp\Trabajo c#\trabajo 44\trabajo 44\bin\Debug\net5.0-windows\trabajo 44.deps.json
+E:\C sharp\Trabajo c#\trabajo 44\trabajo 44\bin\Debug\net5.0-windows\trabajo 44.runtimeconfig.json
+E:\C sharp\Trabajo c#\trabajo 44\trabajo 44\bin\Debug\net5.0-windows\trabajo 44.runtimeconfig.dev.json
+E:\C sharp\Trabajo c#\trabajo 44\trabajo 44\bin\Debug\net5.0-windows\trabajo 44.dll
+E:\C sharp\Trabajo c#\trabajo 44\trabajo 44\bin\Debug\net5.0-windows\ref\trabajo 44.dll
+E:\C sharp\Trabajo c#\trabajo 44\trabajo 44\bin\Debug\net5.0-windows\trabajo 44.pdb
+E:\C sharp\Trabajo c#\trabajo 44\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.csproj.AssemblyReference.cache
+E:\C sharp\Trabajo c#\trabajo 44\trabajo 44\obj\Debug\net5.0-windows\trabajo_44.Form1.resources
+E:\C sharp\Trabajo c#\trabajo 44\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.csproj.GenerateResource.cache
+E:\C sharp\Trabajo c#\trabajo 44\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.GeneratedMSBuildEditorConfig.editorconfig
+E:\C sharp\Trabajo c#\trabajo 44\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.AssemblyInfoInputs.cache
+E:\C sharp\Trabajo c#\trabajo 44\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.AssemblyInfo.cs
+E:\C sharp\Trabajo c#\trabajo 44\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.csproj.CoreCompileInputs.cache
+E:\C sharp\Trabajo c#\trabajo 44\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.dll
+E:\C sharp\Trabajo c#\trabajo 44\trabajo 44\obj\Debug\net5.0-windows\ref\trabajo 44.dll
+E:\C sharp\Trabajo c#\trabajo 44\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.pdb
+E:\C sharp\Trabajo c#\trabajo 44\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.genruntimeconfig.cache
+E:\C sharp\Trabajo c#\trabajo 44\trabajo 44\obj\Debug\net5.0-windows\trabajo_44.windows_nuevo.resources
+F:\mximo}\C#\APP C#\app calculadora y mas\trabajo 44\bin\Debug\net5.0-windows\trabajo 44.exe
+F:\mximo}\C#\APP C#\app calculadora y mas\trabajo 44\bin\Debug\net5.0-windows\trabajo 44.deps.json
+F:\mximo}\C#\APP C#\app calculadora y mas\trabajo 44\bin\Debug\net5.0-windows\trabajo 44.runtimeconfig.json
+F:\mximo}\C#\APP C#\app calculadora y mas\trabajo 44\bin\Debug\net5.0-windows\trabajo 44.runtimeconfig.dev.json
+F:\mximo}\C#\APP C#\app calculadora y mas\trabajo 44\bin\Debug\net5.0-windows\trabajo 44.dll
+F:\mximo}\C#\APP C#\app calculadora y mas\trabajo 44\bin\Debug\net5.0-windows\ref\trabajo 44.dll
+F:\mximo}\C#\APP C#\app calculadora y mas\trabajo 44\bin\Debug\net5.0-windows\trabajo 44.pdb
+F:\mximo}\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.csproj.AssemblyReference.cache
+F:\mximo}\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo_44.Form1.resources
+F:\mximo}\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo_44.windows_nuevo.resources
+F:\mximo}\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.csproj.GenerateResource.cache
+F:\mximo}\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.GeneratedMSBuildEditorConfig.editorconfig
+F:\mximo}\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.AssemblyInfoInputs.cache
+F:\mximo}\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.AssemblyInfo.cs
+F:\mximo}\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.csproj.CoreCompileInputs.cache
+F:\mximo}\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.dll
+F:\mximo}\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\ref\trabajo 44.dll
+F:\mximo}\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.pdb
+F:\mximo}\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.genruntimeconfig.cache
+C:\Users\Maximo\Desktop\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\bin\Debug\net5.0-windows\trabajo 44.exe
+C:\Users\Maximo\Desktop\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\bin\Debug\net5.0-windows\trabajo 44.deps.json
+C:\Users\Maximo\Desktop\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\bin\Debug\net5.0-windows\trabajo 44.runtimeconfig.json
+C:\Users\Maximo\Desktop\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\bin\Debug\net5.0-windows\trabajo 44.runtimeconfig.dev.json
+C:\Users\Maximo\Desktop\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\bin\Debug\net5.0-windows\trabajo 44.dll
+C:\Users\Maximo\Desktop\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\bin\Debug\net5.0-windows\ref\trabajo 44.dll
+C:\Users\Maximo\Desktop\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\bin\Debug\net5.0-windows\trabajo 44.pdb
+C:\Users\Maximo\Desktop\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.csproj.AssemblyReference.cache
+C:\Users\Maximo\Desktop\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo_44.Form1.resources
+C:\Users\Maximo\Desktop\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo_44.windows_nuevo.resources
+C:\Users\Maximo\Desktop\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.csproj.GenerateResource.cache
+C:\Users\Maximo\Desktop\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maximo\Desktop\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.AssemblyInfoInputs.cache
+C:\Users\Maximo\Desktop\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.AssemblyInfo.cs
+C:\Users\Maximo\Desktop\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.csproj.CoreCompileInputs.cache
+C:\Users\Maximo\Desktop\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.dll
+C:\Users\Maximo\Desktop\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\ref\trabajo 44.dll
+C:\Users\Maximo\Desktop\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.pdb
+C:\Users\Maximo\Desktop\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.genruntimeconfig.cache
+D:\Otro\BACKUP\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.dll
+D:\Otro\BACKUP\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.pdb
+D:\Otro\BACKUP\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\bin\Debug\net5.0-windows\trabajo 44.exe
+D:\Otro\BACKUP\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\bin\Debug\net5.0-windows\trabajo 44.deps.json
+D:\Otro\BACKUP\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\bin\Debug\net5.0-windows\trabajo 44.runtimeconfig.json
+D:\Otro\BACKUP\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\bin\Debug\net5.0-windows\trabajo 44.runtimeconfig.dev.json
+D:\Otro\BACKUP\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\bin\Debug\net5.0-windows\trabajo 44.dll
+D:\Otro\BACKUP\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\bin\Debug\net5.0-windows\trabajo 44.pdb
+D:\Otro\BACKUP\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.csproj.AssemblyReference.cache
+D:\Otro\BACKUP\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo_44.Form1.resources
+D:\Otro\BACKUP\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo_44.windows_nuevo.resources
+D:\Otro\BACKUP\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.csproj.GenerateResource.cache
+D:\Otro\BACKUP\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.GeneratedMSBuildEditorConfig.editorconfig
+D:\Otro\BACKUP\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.AssemblyInfoInputs.cache
+D:\Otro\BACKUP\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.AssemblyInfo.cs
+D:\Otro\BACKUP\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.csproj.CoreCompileInputs.cache
+D:\Otro\BACKUP\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\refint\trabajo 44.dll
+D:\Otro\BACKUP\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\trabajo 44.genruntimeconfig.cache
+D:\Otro\BACKUP\Maximo\C#\APP C#\app calculadora y mas\trabajo 44\obj\Debug\net5.0-windows\ref\trabajo 44.dll
